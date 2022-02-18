@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordToPDF": {
+      "commandName": "Project",
+      "commandLineArgs": "-file \"test.doc\" -path \"C:\\Users\\Kenji\\Documents\\Plan de cours\""
+    }
+  }
+}
