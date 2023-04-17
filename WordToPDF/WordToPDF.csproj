@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Spire.Doc" Version="11.3.1" />
+    <PackageReference Include="Spire.Doc" Version="11.4.0" />
   </ItemGroup>
 
 </Project>
